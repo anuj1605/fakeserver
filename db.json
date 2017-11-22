@@ -1,5 +1,20 @@
 {
-    "profile":[ {
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello"
+      },{
+        "id": 2,
+        "title": "hii"
+      },{
+        "id": 3,
+        "title": "namaskar"
+      },{
+        "id": 4,
+        "title": "salaam"
+      }
+    ],
+    "profile": {
       "name": "typicode"
-    }]
+    }
   }
